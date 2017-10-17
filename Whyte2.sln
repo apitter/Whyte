@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whyte2.Plugins", "Whyte2.Plugins.csproj", "{B5A029A0-97B5-C3BE-FEC5-06F8B0F58ED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whyte2", "Whyte2.csproj", "{E2F41857-9183-AF0B-4A4E-990CD5B566C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whyte2.Editor", "Whyte2.Editor.csproj", "{42491CB2-DF2F-C9A6-3960-B2DF2C78BE13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A029A0-97B5-C3BE-FEC5-06F8B0F58ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A029A0-97B5-C3BE-FEC5-06F8B0F58ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A029A0-97B5-C3BE-FEC5-06F8B0F58ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A029A0-97B5-C3BE-FEC5-06F8B0F58ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F41857-9183-AF0B-4A4E-990CD5B566C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F41857-9183-AF0B-4A4E-990CD5B566C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F41857-9183-AF0B-4A4E-990CD5B566C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F41857-9183-AF0B-4A4E-990CD5B566C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42491CB2-DF2F-C9A6-3960-B2DF2C78BE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42491CB2-DF2F-C9A6-3960-B2DF2C78BE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42491CB2-DF2F-C9A6-3960-B2DF2C78BE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42491CB2-DF2F-C9A6-3960-B2DF2C78BE13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
